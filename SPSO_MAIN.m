@@ -6,9 +6,8 @@
 %  Author and programmer: Manh Duong Phung                                %
 %                                                                         %
 %         e-Mail: duongpm@gmail.com                                       %
-%                 duongpm@vnu.edu.vn                                      %
 %                                                                         %
-%       Homepage: https://uet.vnu.edu.vn/~duongpm/                        %
+%       Homepage: https://sites.google.com/view/manhduongphung/           %
 %                                                                         %
 %   Main paper: Manh Duong Phung, Quang Phuc Ha                           %
 %               "Safety-enhanced UAV Path Planning with                   %
