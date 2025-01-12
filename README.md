@@ -4,3 +4,5 @@ This is the source code for the algorithm **Spherical Vector-based Particle Swar
 To run the program, download all the source files and run "SPSO_MAIN.m" in MATLAB.
 
 Note: The program requires the Curve Fitting Toolbox to be installed.
+Update: Another path planning algorithm considering kinematic constraints of the UAV using Multi-objective Particle Swarm Optimation can be found here: https://github.com/ngandng/NMOPSO
+Details of the algorithm are described in the paper: Thi Thuy Ngan Duong, Duy-Nam Bui, [Manh Duong Phung](https://sites.google.com/view/manhduongphung/), [*"Navigation variable-based multi-objective particle swarm optimization for UAV path planning with kinematic constraints"*](https://doi.org/10.1007/s00521-024-10945-1), Journal of Neural Computing and Applications, 2025.  Link to the paper: [https://doi.org/10.1016/j.asoc.2021.107376](https://doi.org/10.1007/s00521-024-10945-1) and its preprint [https://arxiv.org/pdf/2104.10033](https://arxiv.org/pdf/2501.03261)
