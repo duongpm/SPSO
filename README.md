@@ -3,6 +3,10 @@ This is the source code for the algorithm **Spherical Vector-based Particle Swar
 
 To run the program, download all the source files and run "SPSO_MAIN.m" in MATLAB. The program may require installing the Curve Fitting Toolbox depending on your MATLAB version.
 
-_Update_: Another path planning algorithm that includes **kinematic constraints** of the UAV using Multi-objective Particle Swarm Optimization can be found here: https://github.com/ngandng/NMOPSO
+_Update 1_: Another path planning algorithm that includes **kinematic constraints** of the UAV using Multi-objective Particle Swarm Optimization can be found here: [https://github.com/duongpm/NMOPSO](https://github.com/duongpm/NMOPSO)
 
 Details of the algorithm are described in the paper: Thi Thuy Ngan Duong, Duy-Nam Bui, [Manh Duong Phung](https://sites.google.com/view/manhduongphung/), [*"Navigation variable-based multi-objective particle swarm optimization for UAV path planning with kinematic constraints"*](https://doi.org/10.1007/s00521-024-10945-1), Journal of Neural Computing and Applications, 2025.  Link to the paper: [https://doi.org/10.1007/s00521-024-10945-1](https://doi.org/10.1007/s00521-024-10945-1) and its preprint [https://arxiv.org/pdf/2104.10033](https://arxiv.org/pdf/2501.03261)
+
+_Update 2_: A new update that calculates the **dynamic constraint** of the quadcopter UAV and includes it in the path planning using Multi-goal Rapidly Exploring Random Tree (RRT) can be found here: [https://github.com/duongpm/multi-target_RRT](https://github.com/duongpm/multi-target_RRT)
+
+Details of the algorithm are described in the paper: Thu Hang Khuat, Duy-Nam Bui, Hoa TT. Nguyen, Mien L. Trinh, Minh T. Nguyen [Manh Duong Phung](https://sites.google.com/view/manhduongphung/), [*"Multi-goal Rapidly Exploring Random Tree with Safety and Dynamic Constraints for UAV Cooperative Path Planning"*](https://doi.org/10.1007/s00521-024-10945-1), IEEE Transactions on Vehicular Technology, 2025.  Link to the paper: [https://doi.org/10.1109/TVT.2025.3560658](https://doi.org/10.1109/TVT.2025.3560658) and its preprint [https://doi.org/10.48550/arXiv.2504.11823](https://doi.org/10.48550/arXiv.2504.11823)
